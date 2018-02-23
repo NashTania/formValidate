@@ -1,0 +1,46 @@
+
+.longtext, textarea{
+  display: block;
+  font-size: 16px;
+  margin-bottom: 15px;
+  width: 50%;
+
+}
+
+.number{
+  display: block;
+  font-size: 16px;
+  margin-bottom: 25px;
+  width: 10%;
+}
+.shorttext, combo {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 25px;
+  width: 30%;
+}
+
+.radio{
+  margin-left: 10px;
+}
+
+p{
+  display: inline-block;
+  margin-right: 10px;
+}
+#submit{
+  width: 15%;
+  height: 7%;
+}
+
+label{
+  display: block;
+  margin-bottom: 15px;
+  margin-right: 10px;
+
+}
+
+.pRed{
+  color: red;
+  display:inline-block;
+}
